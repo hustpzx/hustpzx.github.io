@@ -113,21 +113,21 @@ owner:
   scholar          : https://scholar.google.com/citations?user=adZRhPoAAAAJ&hl=zh-CN 
 
 
-links:
-  - title: About Me
-    url: /
-  - title: Publications
-    url: /publications/
-  - title: Awards
-    url: /awards/
-  - title: Blogs
-    url: /blogs/
-  # - label: "GitHub"
-  #   icon: "fab fa-fw fa-github"
-  #   url: "https://github.com/hustpzx"
-  # - label: "GoogleScholar"
-  #   icon: "fab fa-fw fa-google"
-  #   url: "https://scholar.google.com/citations?user=adZRhPoAAAAJ&hl=zh-CN"
+  links:
+    - title: About Me
+      url: /
+    - title: Publications
+      url: /publications/
+    - title: Awards
+      url: /awards/
+    - title: Blogs
+      url: /blogs/
+    # - label: "GitHub"
+    #   icon: "fab fa-fw fa-github"
+    #   url: "https://github.com/hustpzx"
+    # - label: "GoogleScholar"
+    #   icon: "fab fa-fw fa-google"
+    #   url: "https://scholar.google.com/citations?user=adZRhPoAAAAJ&hl=zh-CN"
         
 
 # Site Footer
