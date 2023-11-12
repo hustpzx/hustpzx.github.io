@@ -114,14 +114,14 @@ owner:
 
 
   links:
-    - title: About Me
-      url: /
-    - title: Publications
-      url: /publications/
-    - title: Awards
-      url: /awards/
-    - title: Blogs
-      url: /blogs/
+   - title: About Me
+    url: /
+  - title: Publications
+    url: /publications/
+  - title: Awards
+    url: /awards/
+  - title: Blogs
+    url: /blogs/
     # - label: "GitHub"
     #   icon: "fab fa-fw fa-github"
     #   url: "https://github.com/hustpzx"

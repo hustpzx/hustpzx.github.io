@@ -114,14 +114,14 @@ owner:
 
 
   links:
-    - title: About Me
-      url: /
-    - title: Publications
-      url: /publications/
-    - title: Awards
-      url: /awards/
-    - title: Blogs
-      url: /blogs/
+   - title: About Me
+    url: /
+  - title: Publications
+    url: /publications/
+  - title: Awards
+    url: /awards/
+  - title: Blogs
+    url: /blogs/
     # - label: "GitHub"
     #   icon: "fab fa-fw fa-github"
     #   url: "https://github.com/hustpzx"
@@ -207,10 +207,7 @@ sass:
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /homepage/page:num/
-
-timezone: China/Beijing
-future: true
-
+timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins (previously gems:)
