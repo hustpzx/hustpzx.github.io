@@ -8,12 +8,12 @@ Lastest Update: 12th Nov 2023
 
 ## Scholarships
 
-- Oct 2023: Outstanding PhD Student Academic Scholarship (10000 CNY) by HUST.
+- Oct 2023：Outstanding PhD Student Academic Scholarship (10000 CNY) by HUST.
 - Aug 2023：Outstanding Report Award on Summer Annual Conference (500 CNY) by DSAL.
 - Sep 2022：First-class Academic Scholarship (10000 CNY) by HUST.
 - Sep 2021：First-class Academic Scholarship (10000 CNY) by HUST.
 - Sep 2020：First-class Academic Scholarship (10000 CNY) by HUST.
-- Jan 2020: Outstanding Freshman Scholarship (10000 CNY) by WNLO.
+- Jan 2020：Outstanding Freshman Scholarship (10000 CNY) by WNLO.
 - Sep 2019：First-class Academic Scholarship (10000 CNY) by HUST.
 - Sep 2018：First-class Academic Scholarship (10000 CNY) by HUST.
 - Sep 2017：Academic Progress Scholarship (1000 CNY) by HUST.
