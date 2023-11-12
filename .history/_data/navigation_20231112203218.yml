@@ -1,0 +1,11 @@
+main:
+  - title: "About Me"
+    url: /
+  - title: "CV"
+    url: /files/CV/cv_pzx.pdf
+  - title: "Publications"
+    url: /publications/
+  - title: "Awards"
+    url: /awards/
+  - title: "Blog"
+    url: /blogs/
