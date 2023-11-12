@@ -103,7 +103,7 @@ analytics:
 
 
 # Site Author
-owner:
+author:
   name             : "Zhouxuan Peng"
   avatar           : "/files/photos/me.jpg" 
   bio              : "Hi, I'm a Ph.D student from Huazhong University of Science and Technology."
@@ -114,24 +114,12 @@ owner:
 
 
   links:
-   - title: About Me
-    url: /
-  - title: Publications
-    url: /publications/
-  - title: Awards
-    url: /awards/
-  - title: Teams
-    url: /teams/
-  - title: Hobbies
-    url: /hobbies/
-  - title: Blogs
-    url: /blogs/
-    # - label: "GitHub"
-    #   icon: "fab fa-fw fa-github"
-    #   url: "https://github.com/hustpzx"
-    # - label: "GoogleScholar"
-    #   icon: "fab fa-fw fa-google"
-    #   url: "https://scholar.google.com/citations?user=adZRhPoAAAAJ&hl=zh-CN"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/hustpzx"
+    - label: "GoogleScholar"
+      icon: "fab fa-fw fa-google"
+      url: "https://scholar.google.com/citations?user=adZRhPoAAAAJ&hl=zh-CN"
         
 
 # Site Footer

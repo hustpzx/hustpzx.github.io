@@ -103,7 +103,7 @@ analytics:
 
 
 # Site Author
-owner:
+author:
   name             : "Zhouxuan Peng"
   avatar           : "/files/photos/me.jpg" 
   bio              : "Hi, I'm a Ph.D student from Huazhong University of Science and Technology."
