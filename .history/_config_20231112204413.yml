@@ -109,18 +109,40 @@ author:
   bio              : "Hi, I'm a Ph.D student from Huazhong University of Science and Technology."
   location         : "Wuhan, China"
   email            : "hustpzx@hust.edu.cn"
-  # github           : hustpzx
-  # scholar          : https://scholar.google.com/citations?user=adZRhPoAAAAJ&hl=zh-CN 
+  github           : hustpzx
+  scholar          : https://scholar.google.com/citations?user=adZRhPoAAAAJ&hl=zh-CN 
 
 
   links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/hustpzx"
-    - label: "GoogleScholar"
-      icon: "fab fa-fw fa-google"
-      url: "https://scholar.google.com/citations?user=adZRhPoAAAAJ&hl=zh-CN"
-        
+    # - title : About Me
+    #   url   : /
+    # - title : Publications
+    #   url   : /publications/
+    # - title : Awards
+    #   url   : /awards/
+    # - title : Blogs
+    #   url   : /blogs/
+        # - label: "Email"
+        #   icon: "fas fa-fw fa-envelope-square"
+        #   # url: "mailto:your.name@email.com"
+        # - label: "Website"
+        #   icon: "fas fa-fw fa-link"
+        #   # url: "https://your-website.com"
+        # - label: "Twitter"
+        #   icon: "fab fa-fw fa-twitter-square"
+        #   # url: "https://twitter.com/"
+        # - label: "Facebook"
+        #   icon: "fab fa-fw fa-facebook-square"
+        #   # url: "https://facebook.com/"
+    # - label: "GitHub"
+    #   icon: "fab fa-fw fa-github"
+    #   url: "https://github.com/hustpzx"
+    # - label: "GoogleScholar"
+    #   icon: "fab fa-fw fa-google"
+      # url: "https://scholar.google.com/citations?user=adZRhPoAAAAJ&hl=zh-CN"
+        # - label: "Instagram"
+        #   icon: "fab fa-fw fa-instagram"
+        #   # url: "https://instagram.com/"
 
 # Site Footer
 footer:
