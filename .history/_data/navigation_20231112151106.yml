@@ -1,0 +1,20 @@
+# main links
+main:
+  - title: "About Me"
+    url: /
+  - title: "Publications"
+    url: /publications/
+  - title: "CV"
+    url: /files/CV/cv_pzx.pdf
+  - title: "Awards"
+    url: /awards/
+  - title: "Blog"
+    url: /blogs/
+  # - title: "About"
+  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/

@@ -1,0 +1,52 @@
+---
+permalink: /
+toc: true
+title: "  "
+author_profile: ture
+layout: page
+---
+
+# About Me
+
+Here is **Zhouxuan Peng**.
+
+I am a Ph.D student majoring in Computer System and Architecture at Huazhong University of Science and Technology (HUST). Currently, I'm a member of [DSAL](http://stlab.wnlo.hust.edu.cn/index.jsp) (supervised by: [Dan Feng](http://faculty.hust.edu.cn/dfeng/zh_CN/index.htm)). The main research interests include Non-Volatile Memories (NVM), Heterogeneous Memory Systems, Disaggregated Memory Architecture, and Processing in Memory. 
+
+
+
+## Academic Background
+
+- **Huazhong University of Science and Technology (*HUST*)**    **[Sep 2018 - June 2024]**	
+
+  ***B.E*** in Computer Science and Technology, School of Computer Science and Technology. 
+
+- **Huazhong University of Science and Technology (*HUST*)**  **[Sep 2018 - June 2024]**
+
+- ***Ph.D*** in Computer System and Architecture, Wuhan National Laboratory of Optoelectronics.
+
+
+
+
+
+---
+
+## Research Interests
+
+- Non-volatile Memories
+- Heterogeneous Memory Systems
+- Disaggregated Memory Architecture
+- Processing in Memory Architecture
+
+
+
+---
+
+## News and Updates
+
+- **Nov 2023:**  My paper "*AdaptHM: A Fully Adaptive Data Migration Strategy for Hybrid Memory Systems* " was accepted by IEEE TCAD (CCF-A).
+- **Oct 2023:**  Happy to be awarded the Outstanding Ph.D Student Academic Scholarship by [WNLO]([武汉光电国家研究中心2023年学业奖学金评审结果公示-武汉光电国家研究中心 (hust.edu.cn)](http://wnlo.hust.edu.cn/info/1190/12030.htm)).
+- **May 2023:** The collaborative paper "*PMEH: A Parallel and Write-optimized Extendible Hashing for Persistent Memory*" was accepted by IEEE TCAD(CCF-A, [DSAL report]([博士生胡静的论文被期刊TCAD录用-信息存储系统教育部重点实验室 (hust.edu.cn)](http://stlab.wnlo.hust.edu.cn/nr.jsp?urltype=news.NewsContentUrl&wbtreeid=1046&wbnewsid=1689))) 
+- **Mar 2023：**My paper "*RHPM: Using Relative Hotness to Guide Page Migration for Hybrid Memory Systems*" was accepted by IEEE TCAD (CCF-A, [DSAL report]([博士生彭周旋的论文被期刊TCAD录用-信息存储系统教育部重点实验室 (hust.edu.cn)](http://stlab.wnlo.hust.edu.cn/nr.jsp?urltype=news.NewsContentUrl&wbtreeid=1046&wbnewsid=1671))).
+- **Nov 2022:**  My paper "*AGDM: An adaptive granularity data migration strategy for hybrid memory systems.*" was accepted by DATE'23 (CCF-B, [DSAL report]([博士生周恒、彭周旋、袁莹、张鑫晏的论文被DATE 2023录用-信息存储系统教育部重点实验室 (hust.edu.cn)](http://stlab.wnlo.hust.edu.cn/nr.jsp?urltype=news.NewsContentUrl&wbtreeid=1046&wbnewsid=1662)))
+- **Aug 2021:** The collaborative paper "*Parallel Multi-split Extendible Hashing for Persistent Memory*" was accepted by ICPP'21 (CCF-B, [DSAL report]([实验室周海等7位博士生的论文分别被ICPP 2021录用-信息存储系统教育部重点实验室 (hust.edu.cn)](http://stlab.wnlo.hust.edu.cn/nr.jsp?urltype=news.NewsContentUrl&wbtreeid=1046&wbnewsid=1510)))
+

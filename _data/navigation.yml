@@ -1,7 +1,15 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "About Me"
+    url: /pages/about_me/
+  - title: "Publications"
+    url: /pages/publications/
+  - title: "CV"
+    url: /files/CV/cv_pzx.pdf
+  - title: "Awards"
+    url: /pages/awards/
+  - title: "Blog"
+    url: /blogs/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
